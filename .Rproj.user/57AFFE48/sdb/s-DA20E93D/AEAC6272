@@ -1,0 +1,16 @@
+{
+    "contents" : "## Created on 15th 09/2014\n## \n\n## Write a short comment describing this function\n##\n\n\nmakeCacheMatrix <- function(x = matrix()) {\n\n}\n\n\n## Write a short comment describing this function\n##\ncacheSolve <- function(x, ...) {\n        ## Return a matrix that is the inverse of 'x'\n}\n",
+    "created" : 1410816988280.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2889930172",
+    "id" : "AEAC6272",
+    "lastKnownWriteTime" : 1410817080,
+    "path" : "D:/Rstudio/W3_hospital/R-W3/cachematrix.R",
+    "project_path" : "cachematrix.R",
+    "properties" : {
+    },
+    "source_on_save" : true,
+    "type" : "r_source"
+}
