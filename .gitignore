@@ -34,3 +34,10 @@ Icon
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
+
+.Rproj.user/57AFFE48/pcs/files-pane.pper
+*.pper
+.Rproj.user/57AFFE48/sdb/prop/3002BE14
+.Rproj.user/57AFFE48/sdb/prop/INDEX
+.Rproj.user/57AFFE48/sdb/s-3F4043BA/7C24AEDD
+.Rproj.user/57AFFE48/sdb/s-3F4043BA/lock_file
