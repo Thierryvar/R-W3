@@ -1,4 +1,8 @@
 ## Prog assignements W3
+## Created 15 09 2014
+
+## Function makevector
+
 makeVector <- function(x = numeric()) {
     m <- NULL
     set <- function(y) {
@@ -12,6 +16,8 @@ makeVector <- function(x = numeric()) {
          setmean = setmean,
          getmean = getmean)
 }
+
+## Function cachemean
 
 cachemean <- function(x, ...) {
     m <- x$getmean()
